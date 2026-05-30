@@ -11,7 +11,7 @@ A simple browser-based to-do list built with plain HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-- View the app online: `https://your-demo-url.example.com`
+- View the app online: [https://deva112905.github.io/To-Do-list-App](https://deva112905.github.io/To-Do-list-App)
 
 ## How to Use
 
