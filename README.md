@@ -9,6 +9,10 @@ A simple browser-based to-do list built with plain HTML, CSS, and JavaScript.
 - Remove tasks
 - Automatically saves tasks using `localStorage`
 
+## Live Demo
+
+- View the app online: `https://your-demo-url.example.com`
+
 ## How to Use
 
 1. Open `index.html` in your browser.
